@@ -11,8 +11,8 @@ ASP.NET Core
 
 ⚙️ Como Executar o Projeto
 1. Clonar o repositório
-git clone https://github.com/seuusuario/BibliotecaApi.git
-cd BibliotecaApi
+git clone https://github.com/nicolasaoliveira1/Biblioteca.git
+cd Biblioteca
 
 2. Restaurar dependências
 dotnet restore
